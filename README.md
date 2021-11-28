@@ -58,13 +58,13 @@ print(c)
 ```
 berikut ini adalah screenshot pada visual studio code
 
-![img](gambar/1.png)
+![img](gambar/1.PNG)
 
 Output
 
 Berikut output dari program diatas 
 
-![img](gambar/2.png)
+![img](gambar/2.PNG)
 
 Tugas praktikum
 
@@ -136,10 +136,10 @@ else:
 
 dari program diatas berikut screenshot pada visual studio code:
 
-![img](gambar/5.png)
+![img](gambar/5.PNG)
 
 output
 
 dari program diatas saya mendapatkan output sebagai berikut
 
-![img](gambar/6.png)
+![img](gambar/6.PNG)
